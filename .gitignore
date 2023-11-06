@@ -1,5 +1,5 @@
 *.pdf
-/__pycache__
-/.ipynb_checkpoints
-distribution.py.1
+/2023_task_1_knn_laplacedistribution/__pycache__
+/2023_task_1_knn_laplacedistribution/.ipynb_checkpoints
+/2023_task_1_knn_laplacedistribution/distribution.py.1
 /.git
