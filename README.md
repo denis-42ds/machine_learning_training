@@ -13,3 +13,11 @@
 #### Статус проекта: завершён
 #### Использованные инструменты: 
 - python, numpy, matplotlib, json
+
+### [2023_task_3_bagging_oob_boosting_mnist_classification](https://github.com/denis-42ds/machine_learning_training/tree/ml_train/2023_task_3_bagging_oob_boosting_mnist_classification)
+- создание класса SimplifiedBaggingRegressor (упрощённая версия BaggingRegressor от sklearn)
+- создание класса SimplifiedBoostingRegressor (упрощённая версия BoostingRegressor от sklearn)
+- реализация пайплана обучения модели распознования рукописных цифр с качеством 92% на тестовой выборке
+#### Статус проекта: завершён
+#### Использованные инструменты: 
+- python, numpy, sklearn, tqdm, matplotlib, torch, torchvision
