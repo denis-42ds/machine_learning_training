@@ -21,3 +21,9 @@
 #### Статус проекта: завершён
 #### Использованные инструменты: 
 - python, numpy, sklearn, tqdm, matplotlib, torch, torchvision
+
+### [2023_task_4_feature_importances](https://github.com/denis-42ds/machine_learning_training/tree/ml_train/2023_task_4_feature_importances)
+- оценка важности признаков при обучении линейной модели и бустинга
+#### Статус проекта: завершён
+#### Использованные инструменты: 
+- python, pandas, numpy, shap,  sklearn, matplotlib
